@@ -1,4 +1,4 @@
-# Document Classification
+# Document Image Classifier
 
 This is a simple image classifier based on the [Inception model](https://github.com/google/inception) to get predictions on whether a supplied image is a document or not.
 
